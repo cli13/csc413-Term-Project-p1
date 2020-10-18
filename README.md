@@ -9,12 +9,17 @@ Controls:
 
 Player 1:
 W S : move foward and backward
+
 A D : rotate right & left
+
 Enter : shoot
 
 Player 2:
+
 Up Down arrow keys :  move foward and backward
+
 Right Left arrow keys : rotate right & left
+
 spacebar : shoot
 
 
